@@ -1,7 +1,7 @@
 # Fernando Alonso Formula 1 Career Analysis
 ## A Tableau BI Project
 
-This GitHub repository houses a comprehensive business intelligence (BI) project that I developed from scratch, focusing on the illustrious career of Formula 1 driver Fernando Alonso. This project delves into the intricate details of Alonso's racing journey, providing valuable insights and visualizations through a Tableau workbook.
+This GitHub repository houses a comprehensive business intelligence (BI) project that I developed from scratch, focusing on the illustrious career of Formula 1 driver Fernando Alonso. This project delves into the intricate details of Alonso's racing journey, providing valuable insights and visualizations through this Tableau workbook:
 
 https://public.tableau.com/app/profile/pabloferros/viz/FernandoAlonsoF1Career/Dashboard1
 
