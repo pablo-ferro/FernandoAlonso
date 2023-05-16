@@ -5,7 +5,7 @@ This GitHub repository houses a comprehensive business intelligence (BI) project
 
 https://public.tableau.com/app/profile/pabloferros/viz/FernandoAlonsoF1Career/Dashboard1
 
-![Fernando Alonso Career](Alonso Career f1.png)
+![Fernando Alonso Career](Alonso_Career_f1.png)
 
 With meticulous data collection and analysis, this BI project showcases the major milestones, achievements, and statistical highlights of Alonso's Formula 1 career. It covers various aspects, including his race performances, championship wins, team affiliations, lap times, and more. By leveraging Tableau's powerful visualization capabilities, the repository offers an interactive and immersive experience, enabling users to explore and comprehend the data effortlessly.
 
